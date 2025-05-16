@@ -1,0 +1,14 @@
+loja
+    controllers
+        ProdutoController.php
+        PedidoController.php
+    models
+        Produto.php
+        Pedido.php
+        Cupom.php
+    views
+        produtos.php
+        pedidos.php
+    config
+        db.php
+    index.php
